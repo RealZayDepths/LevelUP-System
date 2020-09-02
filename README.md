@@ -28,13 +28,13 @@ This project has been cancelled, and will be move to a brand new project which i
 
 # To-Do List
 
-- Configurable Player Display Name - ❎
+- [ ] Configurable Player Display Name
 
-- Improve tiers                    - ❎
+- [ ] Improve tiers
 
-- Top Tier Player Leaderboards     - ❎
+- [ ] Top Tier Player Leaderboards
 
-- Top Level Player Leaderboards    - ❎
+- [ ] Top Level Player Leaderboards
 
 
 
